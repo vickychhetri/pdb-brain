@@ -1,5 +1,5 @@
 **Install Docker**
-docker-compose up -build  
+then docker-compose up -build  
 
 
 **Terminal Mistral AI Run**
