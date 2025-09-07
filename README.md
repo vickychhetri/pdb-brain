@@ -16,6 +16,9 @@ _This is just to see Mistral LLM model is working properly or not._
 
 
 
+
+APIs for Nirbhay Basic (Upload  Document & Search information) 
+
 **POST(Document Upload)**
 http://localhost:8000/ingest
 
